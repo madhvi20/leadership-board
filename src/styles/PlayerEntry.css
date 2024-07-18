@@ -1,0 +1,23 @@
+.player-entry {
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  .icon {
+    margin-right: 10px;
+  }
+  
+  .details {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+  }
+  
+  .username, .score {
+    font-size: 1rem;
+  }
+  
